@@ -20,3 +20,5 @@ In terminal type-:
 
 and Enjoy it...
 
+# Donation
+GOTO https://www.paypal.com/cgi-bin/webscr?cmd=_s-xclick&hosted_button_id=DR5PHG94N2WQC&source=url

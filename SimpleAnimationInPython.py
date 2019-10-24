@@ -1,4 +1,4 @@
-#23/10/19
+#23/10/19 RUDRA's Code! 
 
 x = '*'
 for u in range(0,2000):
@@ -12,3 +12,5 @@ for u in range(0,2000):
             print(i*x,'    '*k,i*x)
         for j in range(6,0,-1):
             print(j*x,'    '*k,j*x)
+            
+#any problem contact me!

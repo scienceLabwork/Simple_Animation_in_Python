@@ -4,9 +4,8 @@ Simple animation formed by for loop with nested for loop with nested for loop
 Before starting with my code i would like to tell you that this 
 code contains copy right so you can't remake this without my permission
 
-For beautiful Animation Run it with V.S CODE.
+For beautiful Animation Run it with V.S CODE
 
-****************************************************************************************************
 
 # Two Types of Animation
 
@@ -28,4 +27,8 @@ Help us to grow
 
 # My webpage
 
-[scienceLabwork](www.sciencelabwork.cf)
+[scienceLabwork](HTTP://www.sciencelabwork.cf)
+
+
+
+****************************************************************************************************

@@ -1,7 +1,7 @@
 #23/10/19 RUDRA's Code! 
 
 x = '*'
-for u in range(0,2000):
+for u in range(0,200000000000000000000000000000000000000000000000000000000000000000):
     for k in range(0,11):
         for i in range(0,6):
             print(i*x,'    '*k,i*x)

@@ -1,3 +1,5 @@
+![logo](https://github.com/scienceLabwork/Rock_paper_scissor/blob/master/Wholelogo%20copy%202.png)
+
 # Simple_Animation_in_Python
 Simple animation formed by for loop with nested for loop with nested for loop
 
@@ -29,6 +31,6 @@ Help us to grow
 
 [scienceLabwork](HTTP://www.sciencelabwork.cf)
 
-
+"All rights reserved & logo shound be remade without prior permission"
 
 ****************************************************************************************************

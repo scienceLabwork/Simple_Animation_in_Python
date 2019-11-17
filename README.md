@@ -20,12 +20,8 @@ In terminal type-:
 `git clone https://github.com/scienceLabwork/Simple_Animation_in_Python `
 
 and Enjoy it...
-
-# Donation
-
-Help us to grow
-
-[DONATE](https://www.paypal.com/cgi-bin/webscr?cmd=_s-xclick&hosted_button_id=DR5PHG94N2WQC&source=url)
+# contact me
+Instagram- https://www.instagram.com/rudra_shah_/ (Dm me on instagram if you want to contact me)
 
 # My webpage
 
